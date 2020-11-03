@@ -16,3 +16,12 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
+
+## Μπορείτε να δείτε τις αλλαγές που έγιναν στον κώδικα τις άσκησης παρακάτω.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p19fota" data-slug-hash="ZEOOROY" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button ">
+  <span>See the Pen <a href="https://codepen.io/p19fota/pen/ZEOOROY">
+  Button </a> by Ραφαήλ Φωτακίδης  [Π2019116] (<a href="https://codepen.io/p19fota">@p19fota</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
